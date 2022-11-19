@@ -122,7 +122,7 @@ foreach ($SESSION ['hotellist'] as $hotel){
     <div class='row'>
         <div class='col-lg-4 col-md-6 my-3'>
         <div class='card border-0 shadow' style='max-width: 350px; margin: auto;'>
-            <img src='Image:".$hotel ->getImg()."' class='card-img-top'>
+            <img src='".$hotel ->getImg()."' class='card-img-top'>
 
             <div class='card-body'>
                 <h4> ".$hotel->getName()." </h4>
