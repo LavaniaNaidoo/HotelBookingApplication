@@ -1,10 +1,10 @@
-# HotelBookingApplication
+# Hotel Booking Application
 Hotel Reservation System 
 
 Project application built with: PHP, MySQL, HTML, CSS, Bootsrap 5, Swiper.js and some JavaScript.
 
 
-## WhatIsTheWebsite/ProjectAbout?
+## What Is The Website/Project About?
 
 This is a website inspired by a holiday away to Prague! The customers should be able to compare different hotel options and make a booking reservation at one of the 4 or 5 rated hotels. 
 
@@ -24,15 +24,15 @@ When you open the Luxusní Bookings Wesbsite, **follow these steps:**
 
 
 
-## OtherFeaturesOnWebsite
+## Other Features On Website
 
 - When you enter the homepage, you can see a carousel showcasing tourist attractions in Prague and some rooms in their Hotels as well. <br>
-- If you scroll down you can see the **AboutProject** section which was the project brief given to us to make said application. <br>
-- At the very bottom you can see the **ContactUs** which has the Prague capital city (Czech Republic) embedded map and you can move it around! <br>
+- If you scroll down you can see the **About Project** section which was the project brief given to us to make said application. <br>
+- At the very bottom you can see the **Contact Us** which has the Prague capital city (Czech Republic) embedded map and you can move it around! <br>
 
 
 
-## NavigatingTheFiles/Website
+## Navigating The Files/Website
 
 - You can find an export of the database used in the folder: **exports/oop_booking_app.sql**
 - Please use the database located in said folder and export it to your phpMyAdmin and use it with this project/website! <br>
